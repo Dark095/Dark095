@@ -1,9 +1,15 @@
-# 👋 Hey there! I'm Hemant Chaudhari  
+<!-- Stylish Intro with Cursive Font + Right-aligned GIF -->
+<h1>
+  👋 𝐻𝑒𝓎 𝓉𝒽𝑒𝓇𝑒! 𝐼'𝓂 𝐻𝑒𝓂𝒶𝓃𝓉 𝒞𝒽𝒶𝓊𝒹𝒽𝒶𝓇𝒾
+    <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="typing"/>
 
-💻 Bachelors of Engineering in Computer Engineering **2025 Graduate** 
+</h1>
+
+💻 Bachelors of Engineering in Computer Engineering **2025 Graduate**  
 🚀 Passionate about **Data Structures and Algorithms | Machine Learning | Cybersecurity**  
 📊 Exploring **Java Microservices**  
 ⚡ Always curious, always building, always learning  
+
 
 ---
 
